@@ -45,3 +45,24 @@ Compared Afriment with 23 similar organizations based on:
 ## Files
 
 `Copy of Social Media and content Tracker Afriment.xlsx` contains the project data and analysis.
+
+
+
+
+
+## Visuals
+
+### Platform Engagement
+![Platform Engagement](engagement-by-platform.png)
+
+### Engagement Rate by Topic
+![Engagement Rate by Topic](engagement-rate-by-topic.png)
+
+### Weekly Performance
+![Weekly Performance](weekly-performance.png)
+
+### Total Audience by Competitor
+![Total Audience by Competitor](total-audience-by-competitor.png)
+
+### Afriment Audience vs Competitor Median
+![Afriment Audience vs Competitor Median](audience-vs-competitor-median.png)
